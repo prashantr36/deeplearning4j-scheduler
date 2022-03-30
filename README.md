@@ -90,4 +90,3 @@ This project contains an Android example project, that shows DL4J being used in 
 While these set of examples don't cover all the features available in DL4J the intent is to cover functionality required for most users - beginners and advanced.  File an issue [here](https://github.com/eclipse/deeplearning4j-examples/issues) if you have feedback or feature requests that are not covered here. We are also available via our [community forum](https://community.konduit.ai/) for questions.
 We welcome contributions from the community. More information can be found [here](CONTRIBUTORS.md)
 We **love** hearing from you. Cheers!
-# deeplearning4j-scheduler
